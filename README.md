@@ -92,7 +92,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/priyanshu-raj-338947225/">
+<a href="https://www.linkedin.com/in/priyanshu-raj-338947295/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
