@@ -78,7 +78,7 @@
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/PriyanshuRaj0126)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuRaj0126&theme=tokyo-night)](https://github.com/PriyanshuRaj0126)
 
 ---
 
