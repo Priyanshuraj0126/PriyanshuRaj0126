@@ -9,7 +9,7 @@
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=PriyanshuRaj0126&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 </div>
@@ -68,9 +68,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyanshuRaj0126&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuRaj0126&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -78,7 +78,7 @@
 
 ## 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/PriyanshuRaj0126)
 
 ---
 
@@ -94,7 +94,7 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/u/codemaster2807/">
+<a href="https://leetcode.com/u/priyanshuraj0126/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
@@ -111,7 +111,7 @@ https://github.com/PriyanshuRaj0126/KnowYourSpace
 https://github.com/PriyanshuRaj0126/leaflens-ai
 
 ⭐ **OneID**  
-(Add repository link)
+https://github.com/Priyanshuraj0126/OneID
 
 ---
 
