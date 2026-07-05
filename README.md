@@ -5,7 +5,7 @@
 ### Electronics & Computer Engineering Student | Full Stack Developer | AI Enthusiast
 
 <p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;Python+Developer;AI+Enthusiast;LeetCode+Problem+Solver" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C8FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Full+Stack+Developer;Python+Developer;AI+Enthusiast" />
 </p>
 
 <p>
@@ -85,10 +85,36 @@
 
 ---
 
+## 🚀 Featured Projects
 
-## 📈 Contribution Graph
+> *A curated collection of projects showcasing my passion for building impactful software using Full Stack Development, Artificial Intelligence, and Blockchain technologies.*
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PriyanshuRaj0126&theme=tokyo-night)](https://github.com/PriyanshuRaj0126)
+### 🌌 KnowYourSpace
+> AI-powered space exploration platform integrating NASA APIs and Gemini AI for real-time astronomical insights, interactive learning, and space discovery.
+
+**🛠️ Tech Stack:** React • Flask • Python • NASA API • Gemini AI
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://knowyourspace.onrender.com)
+[![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PriyanshuRaj0126/KnowYourSpace)
+
+---
+
+### 🌿 LeafLens AI
+> AI-powered plant disease detection platform that analyzes leaf images using computer vision and Gemini AI to identify plant diseases and provide intelligent treatment recommendations.
+
+**🛠️ Tech Stack:** Python • Flask • OpenCV • Gemini AI
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://leaflens-ai.lovable.app/)
+[![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PriyanshuRaj0126/leaflens-ai)
+
+---
+
+### 🔐 OneID
+> Blockchain-powered decentralized identity management application featuring DID generation, KYC verification, and secure QR-based authentication.
+
+**🛠️ Tech Stack:** Flutter • Python • Supabase • Blockchain
+
+[![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PriyanshuRaj0126/OneID)
 
 ---
 
@@ -112,17 +138,14 @@
 
 ---
 
-## 📂 Featured Repositories
+<div align="center">
 
-⭐ **KnowYourSpace**  
-https://github.com/PriyanshuRaj0126/KnowYourSpace
+### ⭐ Thanks for visiting my profile!
 
-⭐ **LeafLens AI**  
-https://github.com/PriyanshuRaj0126/leaflens-ai
+*"Building software that solves real-world problems, one project at a time."*
 
-⭐ **OneID**  
-https://github.com/Priyanshuraj0126/OneID
+</div>
 
 ---
 
-> *"Always learning. Always building."* 🚀
+> *"Great software isn't written. It's engineered."* 🚀
