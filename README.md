@@ -21,10 +21,11 @@
 - 🎓 B.Tech in **Electronics & Computer Engineering**
 - 📍 Pune, Maharashtra
 - 💼 Former **App Developer Intern @ Hilwitz Solutions**
-- 🌱 Currently learning **Backend Development, AI & System Design**
+- 🌱 Skilled in FullStack Development, System Design, and Apache Kafka, with a focus on building scalable applications.
 - 💻 Passionate about building scalable Web & Mobile Applications
+- 🛠️ Currently enhancing my expertise in Blockchain, Cloud Computing, and DevOps.
 - 🧩 Solving LeetCode regularly
-- 🎯 Aspiring Software Development Engineer (Backend)
+- 🎯 Aspiring Software Development Engineer
 
 ---
 
@@ -63,18 +64,21 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy)
 
-### Technology and Tools
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)
-![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ### API and Services
 
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![Firebase Auth](https://img.shields.io/badge/-Firebase%20Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![NASA API](https://img.shields.io/badge/-NASA%20API-0B3D91?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json)
