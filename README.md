@@ -39,6 +39,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Frameworks & Libraries
 
@@ -47,6 +48,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
 
 ### Databases & Cloud
 
@@ -55,6 +57,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### AI / ML
 
@@ -82,6 +85,15 @@
 ![NASA API](https://img.shields.io/badge/-NASA%20API-0B3D91?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+##  Distributed Systems
+
+![Raft](https://img.shields.io/badge/Raft_Consensus-000000?style=for-the-badge)
+![B%2B_Tree](https://img.shields.io/badge/B%2B_Tree-1E3A8A?style=for-the-badge)
+![Write--Ahead_Logging](https://img.shields.io/badge/Write--Ahead_Logging-6B7280?style=for-the-badge)
+![Storage_Engine](https://img.shields.io/badge/Storage_Engine-2563EB?style=for-the-badge)
+![Distributed_Database](https://img.shields.io/badge/Distributed_Database-111827?style=for-the-badge)
 
 ---
 
@@ -99,13 +111,13 @@
 
 ---
 
-### 🌿 LeafLens AI
-> AI-powered plant disease detection platform that analyzes leaf images using computer vision and Gemini AI to identify plant diseases and provide intelligent treatment recommendations.
+### 🗄️ NexoraDB
 
-**🛠️ Tech Stack:** Python • Flask • OpenCV • Gemini AI
+Production-inspired distributed SQL database built from scratch in Go featuring a custom SQL engine, B+ Tree indexing, Write-Ahead Logging (WAL), Raft consensus, gRPC networking, Prometheus monitoring, and Docker-based distributed deployment.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://leaflens-ai.lovable.app/)
-[![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PriyanshuRaj0126/leaflens-ai)
+**🛠 Tech Stack:** Go • gRPC • Raft • WAL • B+ Tree • Docker • Prometheus • YAML
+
+[![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PriyanshuRaj0126/NexoraDB)
 
 ---
 
@@ -115,6 +127,16 @@
 **🛠️ Tech Stack:** Flutter • Python • Supabase • Blockchain
 
 [![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PriyanshuRaj0126/OneID)
+
+---
+
+### 🌿 LeafLens AI
+> AI-powered plant disease detection platform that analyzes leaf images using computer vision and Gemini AI to identify plant diseases and provide intelligent treatment recommendations.
+
+**🛠️ Tech Stack:** Python • Flask • OpenCV • Gemini AI
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00C853?style=for-the-badge)](https://leaflens-ai.lovable.app/)
+[![Repository](https://img.shields.io/badge/📂_Repository-181717?style=for-the-badge&logo=github)](https://github.com/PriyanshuRaj0126/leaflens-ai)
 
 ---
 
